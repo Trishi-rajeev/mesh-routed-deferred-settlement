@@ -1,4 +1,4 @@
-# UPI Offline Mesh 🚀
+# UPI Offline Mesh-routed-deferred-settlement 🚀
 
 > A secure offline UPI payment simulation using Bluetooth-style mesh networking, hybrid cryptography, and idempotent settlement.
 
